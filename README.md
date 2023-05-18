@@ -19,4 +19,4 @@ Aplicação React desenvolvida com o intuito de estudar os components, consumir 
 
 Acesse esse projeto online: https://rickandmoty.netlify.app/
 
-⌨️ com ❤️ por [@raiff.maia](https://gist.github.com/rmaiafrontend) 😊
+⌨️ feito por [@raiff.maia](https://gist.github.com/rmaiafrontend) 😊
